@@ -7,4 +7,4 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-ADD YOUR FACEBOOK,GOOGLE AND GITHUB CLIENT ID'S AND SECRET KEYS TO THE config/service.php FILE.
+ADD YOUR FACEBOOK,GOOGLE AND GITHUB CLIENT ID'S AND SECRET KEYS TO THE config/services.php FILE.
